@@ -13,8 +13,7 @@ Aplikasi ini merupakan sistem pendukung keputusan (DSS) berbasis Streamlit yang 
 ### 1. Clone Repository (Opsional)
 Jika kode ini ada dalam repository, clone terlebih dahulu:
 ```bash
-git clone https://github.com/user/repo.git
-cd repo
+git clone https://github.com/febriananursyifarizqi/SPK-Bansos.git
 ```
 
 ### 2. Persyaratan Sistem
