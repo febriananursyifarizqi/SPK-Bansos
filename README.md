@@ -10,8 +10,7 @@ Aplikasi ini merupakan sistem pendukung keputusan (DSS) berbasis Streamlit yang 
 - Memungkinkan pengguna untuk memasukkan bobot kriteria melalui sidebar.
 
 ## 🛠️ Instalasi dan Menjalankan Aplikasi
-### 1. Clone Repository (Opsional)
-Jika kode ini ada dalam repository, clone terlebih dahulu:
+### 1. Clone Repository
 ```bash
 git clone https://github.com/febriananursyifarizqi/SPK-Bansos.git
 ```
